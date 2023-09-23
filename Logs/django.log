@@ -1,0 +1,16 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+Страница первого поекта на Django
+"GET /home/1/ HTTP/1.1" 200 410
+Страница знакомства
+"GET /home/about/ HTTP/1.1" 200 479
+Страница знакомства
+"GET /home/about/ HTTP/1.1" 200 479
+Страница знакомства
+"GET /home/about/ HTTP/1.1" 200 479
+Страница знакомства
+"GET /home/about/ HTTP/1.1" 200 479
+Страница знакомства
+"GET /home/about/ HTTP/1.1" 200 479
+Страница знакомства
+"GET /home/about/ HTTP/1.1" 200 479
